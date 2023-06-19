@@ -1,6 +1,7 @@
 package com.github.raqueldiases.ufg.poo.T07;
 
-import java.util.Treeset;
+import java.util.TreeSet;
+
 
 public class Festa {
     private TreeSet convidados = new TreeSet();
