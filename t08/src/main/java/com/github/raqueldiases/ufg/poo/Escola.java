@@ -1,6 +1,6 @@
 package com.github.raqueldiases.ufg.poo;
 
 public class Escola {
-    private endereço;
-    
+    private Endereco endereco = new Endereco();
+
 }
