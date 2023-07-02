@@ -1,4 +1,6 @@
-package com.github.raqueldiases.ufg.poo.T09
+package com.github.raqueldiases.ufg.poo.T09;
+
+import scorex.util.ArrayList;
 
 public class Cidade {
     Cidade cidade;
