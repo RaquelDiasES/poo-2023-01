@@ -1,5 +1,4 @@
 package com.github.raqueldiases.ufg.poo;
 
-public class Casa {
-    
+public class Ponto {
 }
