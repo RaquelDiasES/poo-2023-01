@@ -11,4 +11,7 @@ public class Empresa {
         empregosOferecidos.add(emprego);
     }
 
+     public List<Emprego> getEmpregosOferecidos() {
+        return empregosOferecidos;
+    }
 }
