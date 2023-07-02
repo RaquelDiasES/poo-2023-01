@@ -13,3 +13,4 @@ class Curva {
     public void adicionarPonto(Ponto ponto) {
         pontos.add(ponto);
     }
+}
