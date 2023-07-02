@@ -1,20 +1,16 @@
 package com.github.raqueldiases.ufg.poo;
 
-public class Grupo {
-    private List<Usuario> usuarios;
+package com.github.raqueldiases.ufg.poo;
+
+public class Arquivo {
     private List<Permissao> permissoes;
 
-    public Grupo() {
-        usuarios = new ArrayList<>();
+    public Arquivo() {
         permissoes = new ArrayList<>();
-    }
-
-    public void adicionarUsuario(Usuario usuario) {
-        usuarios.add(usuario);
     }
 
     public void adicionarPermissao(Permissao permissao) {
         permissoes.add(permissao);
     }
 
-    
+}
