@@ -12,4 +12,8 @@ public class Emprego {
         this.salario = salario;
         this.intervaloDeTempo = intervaloDeTempo;
     }
+
+     public List<Emprego> getEmpregos() {
+        return empregos;
+    }
 }
