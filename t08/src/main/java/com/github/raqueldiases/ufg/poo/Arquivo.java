@@ -1,7 +1,5 @@
 package com.github.raqueldiases.ufg.poo;
 
-package com.github.raqueldiases.ufg.poo;
-
 public class Arquivo {
     private List<Permissao> permissoes;
 

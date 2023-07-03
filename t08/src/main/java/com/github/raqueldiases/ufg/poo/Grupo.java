@@ -16,5 +16,5 @@ public class Grupo {
     public void adicionarPermissao(Permissao permissao) {
         permissoes.add(permissao);
     }
-
+}
     
