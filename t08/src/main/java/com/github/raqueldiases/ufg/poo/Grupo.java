@@ -5,8 +5,8 @@ public class Grupo {
     private List<Permissao> permissoes;
 
     public Grupo() {
-        usuarios = new ArrayList<>();
-        permissoes = new ArrayList<>();
+        usuarios = new ArrayList<Usuario>();
+        permissoes = new ArrayList<Permissao>();
     }
 
     public void adicionarUsuario(Usuario usuario) {
