@@ -8,9 +8,9 @@ public class Pessoa {
 
     ArrayList<Bike> bicicletas;
 
-    Bicicleta bicicleta = new Bike();
+    Bike bicicleta = new Bike();
 
-    void pedala(Bicicleta bicicleta){
+    void pedala(Bike bicicleta){
          
     }
     
