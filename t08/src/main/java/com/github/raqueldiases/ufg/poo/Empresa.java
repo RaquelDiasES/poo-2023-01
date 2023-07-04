@@ -1,17 +1,9 @@
 package com.github.raqueldiases.ufg.poo;
 
 public class Empresa {
-    private List<Emprego> empregosOferecidos;
+    private Emprego emprego;
 
-    public Empresa() {
-        empregosOferecidos = new ArrayList<>();
-    }
-
-    public void oferecerEmprego(Emprego emprego) {
-        empregosOferecidos.add(emprego);
-    }
-
-     public List<Emprego> getEmpregosOferecidos() {
-        return empregosOferecidos;
+       public void setEmprego(Emprego emprego) {
+        his.emprego= emrego;
     }
 }
