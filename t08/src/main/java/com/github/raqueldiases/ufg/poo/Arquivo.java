@@ -1,14 +1,11 @@
 package com.github.raqueldiases.ufg.poo;
 
-public class Arquivo {
-    private List<Permissao> permissoes;
+ppublic class Arquivo {
 
-    public Arquivo() {
-        permissoes = new ArrayList<>();
+    
+private Permissao permissao;
+
+    public void setPermissao(Permissao permissao) {
+        this.permissao = permissao;
     }
-
-    public void adicionarPermissao(Permissao permissao) {
-        permissoes.add(permissao);
-    }
-
 }
