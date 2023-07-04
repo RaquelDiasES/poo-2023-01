@@ -1,10 +1,8 @@
 package com.github.raqueldiases.ufg.poo;
 
 public class Pessoa {
-    public Pessoa(Projeto r){
-        
+    public Pessoa(Projeto r){ 
     }
-
 
     private Emprego emprego;
 
