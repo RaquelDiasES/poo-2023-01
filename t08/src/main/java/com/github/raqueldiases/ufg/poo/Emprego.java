@@ -1,19 +1,27 @@
 package com.github.raqueldiases.ufg.poo;
 
 public class Emprego {
+    private float salario;
+    private String inicio;
+    private String fim;
     private Pessoa pessoa;
     private Empresa empresa;
-    private double salario;
-    private String intervaloDeTempo;
 
-    public Emprego(Pessoa pessoa, Empresa empresa, double salario, String intervaloDeTempo) {
+    public Emprego() {
+    }
+
+    public Pessoa getPessoa() {
+        return pessoa;
+    }
+    public Empresa getEmpresa(){
+        return empresa;
+    }
+
+    public void setPessoa(Pessoa pessoa) {
         this.pessoa = pessoa;
+    }
+    public void setEmpresa(Empresa empresa){
         this.empresa = empresa;
-        this.salario = salario;
-        this.intervaloDeTempo = intervaloDeTempo;
     }
 
-     public List<Emprego> getEmpregos() {
-        return empregos;
-    }
 }
