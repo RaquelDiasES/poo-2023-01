@@ -1,9 +1,9 @@
 package main.java.com.github.raqueldiases.ufg.poo.T18;
 
-public class Peça {
+public class Peca {
     private String tipo;
 
-    public Peça(String tipo) {
+    public Peca(String tipo) {
         this.tipo = tipo;
     }
 
