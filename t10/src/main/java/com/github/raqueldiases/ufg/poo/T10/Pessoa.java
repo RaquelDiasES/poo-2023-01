@@ -6,13 +6,12 @@ public class Pessoa {
     String nome;
     String roupa;
 
-    ArrayList<Bicicleta> bicicletas;
+    ArrayList<Bike> bicicletas;
 
-    Bicicleta bicicleta = new Bicicleta();
+    Bike bicicleta = new Bike();
 
-    void pedala(Bicicleta bicicleta){
-        
-        
+    void pedala(Bike bicicleta){
+         
     }
     
 }

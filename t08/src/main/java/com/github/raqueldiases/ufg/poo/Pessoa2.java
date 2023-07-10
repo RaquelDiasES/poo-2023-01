@@ -3,10 +3,10 @@ package com.github.raqueldiases.ufg.poo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Pessoa {
+public class Pessoa2 {
     private List<Emprego> empregos;
 
-    public Pessoa() {
+    public Pessoa2() {
         empregos = new ArrayList<>();
     }
 

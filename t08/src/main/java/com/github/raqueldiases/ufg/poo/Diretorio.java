@@ -14,6 +14,5 @@ public class Diretorio {
         usuariosAutorizados.add(usuario);
     }
 
-    // Outros atributos, métodos e construtores da classe Diretorio
-    // (adicionar conforme necessário)
+    
 }
