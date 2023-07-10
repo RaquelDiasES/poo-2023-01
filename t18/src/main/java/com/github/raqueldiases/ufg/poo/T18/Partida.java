@@ -1,4 +1,4 @@
-package com.github.raqueldiases.ufg.poo.T18;
+package main.java.com.github.raqueldiases.ufg.poo.T18;
 
 public class Partida {
     private Tabuleiro tabuleiro;
