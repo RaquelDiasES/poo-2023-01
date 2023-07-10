@@ -20,7 +20,7 @@ public class Lance {
     public void setJogador(Jogador jogador) {
         this.jogador = jogador;
     }
-    public Peça getPeca() {
+    public Peca getPeca() {
         return peca;
     }
 
