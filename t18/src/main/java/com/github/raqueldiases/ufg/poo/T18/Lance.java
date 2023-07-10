@@ -24,7 +24,7 @@ public class Lance {
         return peca;
     }
 
-    public void setPeca(Peça peca) {
+    public void setPeca(Peca peca) {
         this.peca = peca;
     }
 
