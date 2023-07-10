@@ -1,5 +1,5 @@
 package com.github.raqueldiases.ufg.poo.T11;
 
-public class Quarto {
-    
+public class CD {
+    private String nome;
 }
